@@ -1,5 +1,5 @@
 # FEM-Cloth-Simulation
-Cloth simulation using co-rotational linear elasticity, this simulation will use triangles, rather than tetrahedron as the finite elements and will use a principal stretch-based model for the cloth material.
+Finite element method for cloth simulation using co-rotational linear elasticity, this simulation will use triangles, rather than tetrahedron as the finite elements and will use a principal stretch-based model for the cloth material.
 
 ## Compilation for Testing
 
